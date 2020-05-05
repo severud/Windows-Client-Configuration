@@ -1,0 +1,44 @@
+<site-list version="205">
+	<!-- File creation header -->
+	<created-by>
+		<tool>EnterpriseSitelistManager</tool>
+		<version>10240</version>
+		<date-created>20150728.135021</date-created>
+	</created-by>
+  	<!-- Begin Site List --> 
+	<site url="www.cpandl.com">
+		<compat-mode>IE8Enterprise</compat-mode>
+		<open-in>MSEdge</open-in>
+	</site>
+	<site url="www.woodgrovebank.com">
+		<compat-mode>Default</compat-mode>
+		<open-in>IE11</open-in>
+	</site>
+	<site url="adatum.com">
+		<compat-mode>IE7Enterprise</compat-mode>
+		<open-in>IE11</open-in>
+	</site>
+	<site url="contoso.com">
+		<compat-mode>Default</compat-mode>
+		<open-in>IE11</open-in>
+	</site>
+	<site url="relecloud.com"/>  
+		<compat-mode>Default</compat-mode>
+		<open-in>None</open-in>
+	<site url="relecloud.com/about">  
+		<compat-mode>IE8Enterprise"</compat-mode>
+		<open-in>None</open-in>
+	</site>
+	<site url="contoso.com/travel">
+		<compat-mode>IE7</compat-mode>
+		<open-in>IE11</open-in>
+	</site>
+	<site url="fabrikam.com">
+		 <compat-mode>IE8Enterprise</compat-mode>
+		 <open-in>IE11</open-in>
+	</site>
+	<site url="fabrikam.com/products">
+		 <compat-mode>IE7</compat-mode>
+		 <open-in>IE11</open-in>
+	</site>	
+</site-list>
