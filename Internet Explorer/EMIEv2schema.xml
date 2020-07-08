@@ -18,7 +18,7 @@
 		<compat-mode>IE7Enterprise</compat-mode>
 		<open-in>IE11</open-in>
 	</site>
-	<site url="contoso.com">
+	<site url="uwmedicine.tmsonline.com/tms">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in>
 	</site>
